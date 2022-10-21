@@ -15,6 +15,8 @@ https://github.com/nathanfarlow/PineappleCAS
 
 Programs to get
 
-ChessCE
-MCRAFT2D
-PACMAN
+- ChessCE
+- MCRAFT2D
+- PACMAN
+- OIRAM
+- FLAPPYB
